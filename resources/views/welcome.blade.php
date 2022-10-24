@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Solar - Solar Energy Website Template</title>
+    <title>Batu Cipta Bahana</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -25,15 +25,16 @@
 
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/test.css" rel="stylesheet">
 
-    @vite(['resources/css/style.css', 'resources/css/style.min.css', 'resources/css/main.js'])
+    @vite(['resources/css/style.css', 'resources/css/style.min.css', 'resources/js/main.js'])
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="51">
     <!-- Navbar Start -->
     <nav class="navbar fixed-top shadow-sm navbar-expand-lg bg-dark navbar-dark py-1 py-lg-0 px-lg-5">
         <a href="index.html" class="navbar-brand d-block d-lg-none">
-            <h1 class="display-4 text-white text-uppercase m-0">Solar</h1>
+            <h1 class="display-4 text-white text-uppercase m-0">BCB</h1>
         </a>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -46,7 +47,7 @@
                 <a href="#project" class="nav-item nav-link">Project</a>
             </div>
             <a href="index.html" class="navbar-brand bg-primary px-4 mx-3 d-none d-lg-block">
-                <h1 class="display-4 text-white text-uppercase m-0">Solar</h1>
+                <h1 class="display-4 text-white text-uppercase m-0">BCB</h1>
             </a>
             <div class="navbar-nav mr-auto py-0">
                 <a href="#team" class="nav-item nav-link">Team</a>
@@ -67,8 +68,8 @@
                     <img class="position-absolute w-100 h-100" src="{{asset('img/carousel-1.jpg') }}" style="object-fit: cover;">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h4 class="text-white text-uppercase mb-4" style="letter-spacing: 3px;">Solar Energy</h4>
-                            <h3 class="display-2 font-secondary text-white mb-4">Innovative Solar Solution For Home</h3>
+                            <h4 class="text-white text-uppercase mb-4" style="letter-spacing: 3px;">Batu Cipta Bahana</h4>
+                            <h3 class="display-2 font-secondary text-white mb-4">Innovative Batu Cipta Bahana Solution For Home</h3>
                             <a class="btn btn-light font-weight-bold py-3 px-5 mt-2 btn-scroll" href="#contact">Get A
                                 Quote</a>
                         </div>
@@ -78,7 +79,7 @@
                     <img class="position-absolute w-100 h-100" src="../img/carousel-2.jpg" style="object-fit: cover;">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h4 class="text-white text-uppercase mb-4" style="letter-spacing: 3px;">Solar Energy</h4>
+                            <h4 class="text-white text-uppercase mb-4" style="letter-spacing: 3px;">Batu Cipta Bahana</h4>
                             <h3 class="display-2 font-secondary text-white mb-4">Let The Sun Work For Your Home</h3>
                             <a class="btn btn-light font-weight-bold py-3 px-5 mt-2 btn-scroll" href="#contact">Get A
                                 Quote</a>
@@ -110,7 +111,7 @@
                 </div>
                 <div class="col-lg-7">
                     <h6 class="text-uppercase text-primary mb-3" style="letter-spacing: 3px;">About Us</h6>
-                    <h1 class="display-4 mb-3"><span class="text-primary">25+ Years Experience</span> In Solar Power
+                    <h1 class="display-4 mb-3"><span class="text-primary">25+ Years Experience</span> In Batu Cipta Bahana Power
                         Industry</h1>
                     <p>At sed est eirmod sanctus et amet diam magna. Dolore clita magna sed sed stet et, at magna rebum
                         eirmod sanctus ut sed, stet tempor dolore rebum sit duo, dolore tempor sit est sit sanctus, sit
@@ -143,7 +144,7 @@
                             </a>
                         </div>
                         <div class="bg-secondary text-center p-4">
-                            <h3 class="m-0">Solar System</h3>
+                            <h3 class="m-0">Batu Cipta Bahana System</h3>
                         </div>
                     </div>
                 </div>
@@ -351,7 +352,7 @@
             <div class="row">
                 <div class="col-md-6 border-right border-primary">
                     <div class="text-center text-md-right mr-md-3 mb-4 mb-md-0">
-                        <h3 class="mb-4">Why Switch to Solar?</h3>
+                        <h3 class="mb-4">Why Switch to Batu Cipta Bahana?</h3>
                         <h5 class="mb-3"><i
                                 class="fa fa-check text-success float-md-right mr-2 mr-md-0 ml-md-2"></i>Vero dolor
                             amet no eos ipsum erat</h5>
@@ -519,15 +520,15 @@
                         <h5 class="text-primary text-uppercase mb-4" style="letter-spacing: 5px;">Our Products</h5>
                         <div class="d-flex flex-column justify-content-start">
                             <a class="text-white btn-scroll mb-2" href="#service"><i
-                                    class="fa fa-angle-right mr-2"></i>Solar System</a>
+                                    class="fa fa-angle-right mr-2"></i>Batu Cipta Bahana System</a>
                             <a class="text-white btn-scroll mb-2" href="#service"><i
                                     class="fa fa-angle-right mr-2"></i>Wind Turbine</a>
                             <a class="text-white btn-scroll mb-2" href="#service"><i
                                     class="fa fa-angle-right mr-2"></i>Wind Generator</a>
                             <a class="text-white btn-scroll mb-2" href="#service"><i
-                                    class="fa fa-angle-right mr-2"></i>Solar Energy</a>
+                                    class="fa fa-angle-right mr-2"></i>Batu Cipta Bahana</a>
                             <a class="text-white btn-scroll" href="#service"><i
-                                    class="fa fa-angle-right mr-2"></i>Solar Panel</a>
+                                    class="fa fa-angle-right mr-2"></i>Batu Cipta Bahana Panel</a>
                         </div>
                     </div>
                 </div>
@@ -562,7 +563,7 @@
         <div class="modal-dialog modal-lg" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLongTitle">Solar Energy System</h5>
+                    <h5 class="modal-title" id="exampleModalLongTitle">Batu Cipta Bahana System</h5>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
